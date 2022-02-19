@@ -1,0 +1,32 @@
+table {
+  margin: auto;
+  border: 2px solid black;
+}
+
+tr,
+th,
+td {
+  border: 1px solid black;
+}
+
+.nav {
+  background-color: aqua;
+  width: 100%;
+  height: 40px;
+  color: red;
+  font-size: 30px;
+}
+
+.sort1,
+.sort2 {
+  color: forestgreen;
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+  margin: 20px 15px;
+}
+
+.page {
+  width: 50px;
+  margin: 30px 2px;
+}
